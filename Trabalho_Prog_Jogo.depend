@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1636210204 source:c:\users\pedro\desktop\fatec\progam2\trabalho_prog_jogo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
+1643929190 source:c:\users\pedro\desktop\fatec\progam2\jogo\trabalho_prog_jogo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
